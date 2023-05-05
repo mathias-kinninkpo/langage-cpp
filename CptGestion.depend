@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1670931490 source:c:\users\mathias\documents\programmation\cptgestion\cptgestion.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	"professionnel.h"
+	"profile.h"
+	"cptGestion.h"
+
+1670925364 source:c:\users\mathias\documents\programmation\cptgestion\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"cptGestion.h"
+
+1670925364 c:\users\mathias\documents\programmation\cptgestion\cptgestion.h
+	<vector>
+	"professionnel.h"
+
+1670923951 source:c:\users\mathias\documents\programmation\cptgestion\profile.cpp
+	<algorithm>
+	"profile.h"
+
+1670602470 c:\users\mathias\documents\programmation\cptgestion\profile.h
+	<iostream>
+	<vector>
+
+1670602470 c:\users\mathias\documents\programmation\cptgestion\professionnel.h
+	<vector>
+	<iostream>
+	"profile.h"
+
+1670605336 source:c:\users\mathias\documents\programmation\cptgestion\professionnel.cpp
+	"professionnel.h"
+	<algorithm>
+
